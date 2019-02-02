@@ -3,7 +3,12 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@8base/app-provider": "^0.10.5",
+    "@8base/web-auth0-auth-client": "^0.10.5",
+    "graphql": "^14.1.1",
+    "graphql-tag": "^2.10.1",
     "react": "^16.7.0",
+    "react-apollo": "^2.4.1",
     "react-dom": "^16.7.0",
     "react-scripts": "2.1.3"
   },
